@@ -1,0 +1,19 @@
+# Logfile created on 2019-12-12 00:33:26 -0400 by logger.rb/66358
+D, [2019-12-12T00:33:26.067768 #7272] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T00:33:26.390113 #7272] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"5", "tamY"=>"7"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T00:33:26.414006 #7272] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-12T00:33:26.439901 #7272] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T00:33:26.529330 #7272] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T00:33:26.575242 #7272] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-12T00:33:26.639474 #7272] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T00:33:26.809453 #7272] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"0", "tamY"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T00:33:26.814670 #7272] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-12T00:33:55.389563 #8096] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T00:33:55.689269 #8096] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"5", "tamY"=>"7"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T00:33:55.770209 #8096] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-12T00:33:55.920771 #8096] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T00:33:56.197616 #8096] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T00:33:56.265144 #8096] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-12T00:33:56.341299 #8096] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T00:33:56.590289 #8096] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"0", "tamY"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T00:33:56.658174 #8096] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
