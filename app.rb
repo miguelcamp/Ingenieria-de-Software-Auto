@@ -9,11 +9,15 @@ load  'lib\auto.rb'
 get	'/'	do
     erb :mapa
 end
+post '/' do
+    erb :mapa
+end
 
 
 post '/setup_secuencia' do
     @tamX = params[:tamX].to_i
     @tamY = params[:tamY].to_i
+    @numAutos = params[:autos].to_i
 
    if (@tamX * @tamY==0)
     erb :mapa

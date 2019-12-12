@@ -17,3 +17,7 @@ Given("visito la pagina setup_secuencia") do
     last_response.body.should =~ /#{string}/m
   end
   
+  Given("ingreso {int} autos en el campo {string}") do |int, string|
+    fill_in(string, :with => int)
+  end
+  
