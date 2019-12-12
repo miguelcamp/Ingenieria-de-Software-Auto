@@ -14,7 +14,7 @@ get '/area' do
     erb :area
 end
 
-get '/setup_secuencia' do
+post '/setup_secuencia' do
     @tamX = params[:tamX].to_i
     @tamY = params[:tamY].to_i
 
