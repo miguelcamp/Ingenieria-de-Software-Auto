@@ -1,8 +1,8 @@
-<form action="/setup_secuencia" method="get">
+<form action="/setup_secuencia" method="post">
 <fieldset>
         <legend><b>Ingresar datos para simular: </b> </legend>
-    Tamaño X<input type="text" name="tamX"><br>
-    Tamaño Y<input type="text" name="tamY"><br>
+    Tamaño X<input type="number" size="10" min=1 max="10" value="5" name="tamX"><br>
+    Tamaño Y<input type="number" size="10" min=1 max="10" value="5" name="tamY"><br>
     <%#Cambiar lo de arriba para seguir lo de abajo #
     Age: <input type="number" size="6" name="age" min="18" max="99" value="21"><br>
     Satisfaction: <input type="range" size="2" name="satisfaction" min="1" max="5" value="3"> %>
