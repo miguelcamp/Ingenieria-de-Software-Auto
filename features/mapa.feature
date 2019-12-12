@@ -25,3 +25,9 @@ When presiono el boton "Ingresar Dimensiones"
 Then visito la pagina principal
 
 
+Scenario: Ingresar dimensiones de terreno grandes
+Given visito la pagina principal
+And Ingreso dimensiones 15 y 20 en los campos "tamX" y "tamY"
+When presiono el boton "Ingresar Dimensiones"
+Then visito la pagina principal
+

@@ -10,9 +10,6 @@ get	'/'	do
     erb :mapa
 end
 
-get '/area' do
-    erb :area
-end
 
 post '/setup_secuencia' do
     @tamX = params[:tamX].to_i
