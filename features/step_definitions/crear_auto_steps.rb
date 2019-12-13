@@ -3,7 +3,7 @@ Given("visito la pagina setup_secuencia") do
     visit '/setup_secuencia'
   end
   
-  Given("ingreso {int} y {int} en los campos {string} y {string}") do |int, int2, string, string2|
+  Given("ingreso {string} y {string} en los campos {string} y {string}") do |int, int2, string, string2|
     fill_in(string, :with => int)
     fill_in(string2, :with => int2) 
   end
