@@ -9,6 +9,10 @@ load  'lib\auto.rb'
 get	'/'	do
     erb :mapa
 end
+post '/' do
+    erb :mapa
+end
+
 
 
 get '/simulacion' do
