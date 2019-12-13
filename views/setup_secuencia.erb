@@ -1,17 +1,32 @@
 
 <h1>Ingreso de Datos</h1>
 <h3>Dimensiones: <%=@tamX%> x <%=@tamY%></h3>
+
+    
+    sdsd<%=@numAutos%>
+    
 <form action="/simulacion" method="post">
+    <legend> <b> Ingresar datos para simular: </b> </legend>
+
     <fieldset>
-        <legend> <b> Ingresar datos para simular: </b> </legend>
-        Posicion X<br>
+    <%iterator=0%>
+    <% while iterator < @numAutos %>
+        
+    
+        Posicion X  <%=iterator+1%><br>
         <input type="text" name="X"><br>
-        Posicion Y<br>
+
+        Posicion Y <%=iterator+1%><br>
         <input type="text" name="Y"><br>
-        Orientacion<br>
+
+        Orientacion <%=iterator+1%><br>
         <input type="text" name="orientacion"><br>
+
         Instrucciones<br>
         <input type="text" name="instrucciones"><br>
+        <br><br>
+        <%iterator+=1%>
+    <% end %>
         <input type="submit" value="Simular">
     </fieldset>
 </form>

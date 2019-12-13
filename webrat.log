@@ -1,0 +1,470 @@
+# Logfile created on 2019-12-13 04:00:38 -0400 by logger.rb/66358
+D, [2019-12-13T04:00:38.437760 #880] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T04:00:38.774280 #880] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T04:00:38.996261 #880] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T04:00:39.251169 #880] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T04:00:39.355424 #880] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T04:00:39.475371 #880] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T04:00:39.506369 #880] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T04:00:39.539835 #880] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T04:00:39.633956 #880] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T04:00:39.668945 #880] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T04:00:39.701911 #880] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T04:00:39.804022 #880] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T04:00:39.990764 #880] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T04:00:40.042773 #880] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T04:00:40.259236 #880] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T04:00:40.316793 #880] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T04:17:35.451498 #18232] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T04:17:35.678395 #18232] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T04:17:35.867135 #18232] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T04:17:36.021056 #18232] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T04:17:36.157938 #18232] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T04:17:36.267032 #18232] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T04:17:36.307886 #18232] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T04:17:36.344148 #18232] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T04:17:36.455694 #18232] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T04:17:36.492021 #18232] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T04:17:36.548327 #18232] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T04:17:36.665921 #18232] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T04:17:36.703266 #18232] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T04:17:36.739779 #18232] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T04:17:36.853568 #18232] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T04:17:36.889921 #18232] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T04:17:36.960842 #18232] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:32:33.046763 #18644] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:32:33.452378 #18644] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:32:33.751517 #18644] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:32:33.954370 #18644] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:33:44.006775 #19252] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:33:44.261315 #19252] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:33:44.483399 #19252] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:33:44.657191 #19252] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:33:44.787449 #19252] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:33:44.904812 #19252] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:33:44.939527 #19252] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:33:44.979362 #19252] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:33:45.086358 #19252] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:33:45.120714 #19252] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:33:45.156765 #19252] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:33:45.283199 #19252] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:33:45.322697 #19252] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:33:45.364502 #19252] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:33:45.473891 #19252] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:33:45.517841 #19252] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:33:45.645420 #19252] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:34:40.257037 #8904] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:34:40.550060 #8904] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:34:40.814380 #8904] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:34:41.024752 #8904] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:34:41.202936 #8904] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:34:41.331749 #8904] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:34:41.373725 #8904] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:34:41.414220 #8904] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:34:41.548208 #8904] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:34:41.598105 #8904] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:34:41.650289 #8904] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:34:41.785127 #8904] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:34:41.832903 #8904] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:34:41.868813 #8904] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:34:41.976610 #8904] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:34:42.009207 #8904] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:34:42.071426 #8904] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:36:01.936970 #18716] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:36:02.151440 #18716] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:36:02.324529 #18716] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:36:02.461311 #18716] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:36:02.592503 #18716] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:36:02.710293 #18716] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:36:02.741176 #18716] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:36:02.775431 #18716] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:36:02.868328 #18716] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:36:02.902508 #18716] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:36:02.932530 #18716] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:36:03.026976 #18716] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:36:03.058867 #18716] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:36:03.094119 #18716] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:36:03.196077 #18716] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:36:03.227548 #18716] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:36:03.295723 #18716] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:36:28.923304 #18764] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:36:29.135170 #18764] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:36:29.307630 #18764] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:36:29.445877 #18764] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:36:29.565887 #18764] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:36:29.802403 #18764] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:36:30.032606 #18764] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:36:30.257550 #18764] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:36:30.523350 #18764] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:37:57.309076 #6140] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:37:57.519104 #6140] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:37:57.704600 #6140] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:37:57.871603 #6140] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:37:58.012838 #6140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:37:58.124392 #6140] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:37:58.163334 #6140] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:37:58.195732 #6140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:37:58.298717 #6140] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:37:58.335985 #6140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:37:58.372437 #6140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:37:58.466752 #6140] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:37:58.500335 #6140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:37:58.534931 #6140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:37:58.654964 #6140] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:37:58.688349 #6140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:37:58.746943 #6140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:38:46.676683 #18560] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:38:46.885126 #18560] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:38:47.064268 #18560] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:38:47.216650 #18560] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:38:47.327929 #18560] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:38:47.441003 #18560] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:38:47.470945 #18560] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:38:47.507173 #18560] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:38:47.611835 #18560] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:38:47.647504 #18560] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:38:47.685814 #18560] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:38:47.782381 #18560] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:38:47.815320 #18560] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:38:47.849559 #18560] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:38:47.950197 #18560] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:38:47.979146 #18560] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:38:48.079494 #18560] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:38:48.188113 #18560] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:38:48.222200 #18560] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:42:49.961706 #17864] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:42:50.303674 #17864] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:42:50.547571 #17864] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T05:42:50.732582 #17864] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:42:50.867989 #17864] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:42:50.983406 #17864] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:42:51.017799 #17864] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:42:51.055181 #17864] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:42:51.144813 #17864] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:42:51.186738 #17864] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:42:51.228359 #17864] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:42:51.345067 #17864] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:42:51.382573 #17864] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:42:51.418277 #17864] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:42:51.530366 #17864] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:42:51.564147 #17864] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T05:42:51.640452 #17864] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T05:42:51.750511 #17864] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T05:42:51.783314 #17864] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:10:42.487355 #140] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:10:42.785140 #140] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:10:43.078139 #140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:10:43.194710 #140] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:10:43.252955 #140] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:10:43.283311 #140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:10:43.455806 #140] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:10:43.484690 #140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:10:43.514395 #140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:10:43.603030 #140] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:10:43.627749 #140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:10:43.661619 #140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:10:43.761402 #140] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:10:43.794059 #140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:10:43.847883 #140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:10:43.937644 #140] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:10:43.962594 #140] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:11:03.013032 #14816] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:11:03.286341 #14816] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:11:03.535308 #14816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:11:03.640247 #14816] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:11:03.684122 #14816] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:11:03.715649 #14816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:11:03.795300 #14816] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:11:03.835489 #14816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:11:03.863992 #14816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:11:03.952935 #14816] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:11:03.984423 #14816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:11:04.014104 #14816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:11:04.112015 #14816] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:11:04.139209 #14816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:11:04.192894 #14816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:11:04.276903 #14816] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:11:04.303280 #14816] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:12:30.987193 #7128] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:12:31.259553 #7128] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:12:31.573622 #7128] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:12:31.682911 #7128] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:12:31.726533 #7128] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:12:31.753275 #7128] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:12:31.825221 #7128] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:12:31.860759 #7128] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:12:31.888909 #7128] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:12:31.960738 #7128] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:12:31.988927 #7128] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:12:32.016809 #7128] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:12:32.110460 #7128] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:12:32.129868 #7128] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:12:32.195935 #7128] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:12:32.279994 #7128] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:12:32.310430 #7128] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:12:58.156284 #18700] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:12:58.426903 #18700] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:12:58.686287 #18700] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:12:58.857710 #18700] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:12:59.070952 #18700] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:12:59.298477 #18700] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:12:59.543970 #18700] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:09.099028 #14456] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:13:09.369376 #14456] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:13:09.638750 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:09.746700 #14456] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:13:09.793178 #14456] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:09.820432 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:09.895142 #14456] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:13:09.922757 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:09.955260 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:10.039985 #14456] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:13:10.068839 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:10.103262 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:10.190699 #14456] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:13:10.221750 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:10.272548 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:10.370609 #14456] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:13:10.400142 #14456] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:27.158533 #15628] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:13:27.352939 #15628] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:27.516185 #15628] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:13:27.659283 #15628] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:27.755645 #15628] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:27.845718 #15628] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:13:27.870686 #15628] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:27.891533 #15628] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:27.969843 #15628] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:13:27.998418 #15628] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:28.025768 #15628] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:28.122553 #15628] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:13:28.151015 #15628] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:28.195984 #15628] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:28.273493 #15628] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:13:28.300306 #15628] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:28.355332 #15628] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:28.435736 #15628] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:13:28.460311 #15628] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:48.599487 #2728] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:13:48.788648 #2728] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:48.954828 #2728] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:13:49.090445 #2728] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:49.185285 #2728] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:49.283176 #2728] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:13:49.302883 #2728] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:49.328885 #2728] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:49.407864 #2728] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:13:49.436608 #2728] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:49.468392 #2728] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:49.547814 #2728] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:13:49.571651 #2728] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:49.592007 #2728] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:49.671808 #2728] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:13:49.701364 #2728] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:13:49.754131 #2728] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:13:49.833150 #2728] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:13:49.857295 #2728] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:14:50.394684 #13888] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:14:50.649243 #13888] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:14:50.890160 #13888] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:14:51.004514 #13888] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:14:51.048130 #13888] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:14:51.071949 #13888] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:14:51.167728 #13888] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:14:51.198689 #13888] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:14:51.225528 #13888] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:14:51.307374 #13888] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:14:51.337845 #13888] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:14:51.357067 #13888] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:14:51.443403 #13888] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:14:51.475250 #13888] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:14:51.530635 #13888] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:14:51.627207 #13888] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:14:51.657063 #13888] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:15:56.352056 #14456] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:15:56.552609 #14456] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:15:56.746092 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:15:56.870596 #14456] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:15:56.922084 #14456] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:15:56.964690 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:15:57.046724 #14456] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:15:57.082243 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:15:57.114596 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:15:57.214609 #14456] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:15:57.242908 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:15:57.268645 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:15:57.359933 #14456] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:15:57.389040 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:15:57.446725 #14456] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:15:57.539049 #14456] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:15:57.564497 #14456] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:16:59.638621 #15828] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:16:59.913226 #15828] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:17:00.191798 #15828] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:17:00.313181 #15828] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:17:00.342634 #15828] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:17:00.361756 #15828] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:17:00.450018 #15828] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:17:00.478515 #15828] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:17:00.510374 #15828] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:17:00.594965 #15828] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:17:00.632725 #15828] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:17:00.659657 #15828] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:17:00.757272 #15828] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:17:00.785859 #15828] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:17:00.854921 #15828] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:17:00.926982 #15828] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:17:00.956637 #15828] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:20:02.866479 #18216] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:20:03.159496 #18216] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:20:03.439619 #18216] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:20:03.588723 #18216] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:20:03.708095 #18216] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:20:03.866713 #18216] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:20:04.061011 #18216] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:20:04.146722 #18216] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:20:04.183971 #18216] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:20:40.318606 #5608] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:20:40.572494 #5608] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:20:40.845714 #5608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:20:40.976499 #5608] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:20:41.010348 #5608] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:20:41.034986 #5608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:20:41.117913 #5608] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:20:41.146559 #5608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:20:41.179220 #5608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:20:41.263871 #5608] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:20:41.290282 #5608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:20:41.320104 #5608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:20:41.410502 #5608] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:20:41.429487 #5608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:20:41.503375 #5608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:20:41.592523 #5608] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:20:41.624634 #5608] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:21:09.151517 #18988] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:21:09.377416 #18988] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:21:09.566824 #18988] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:21:09.711038 #18988] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:21:09.756381 #18988] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:21:09.781075 #18988] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:21:09.873595 #18988] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:21:09.906149 #18988] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:21:09.934530 #18988] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:21:10.015112 #18988] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:21:10.045975 #18988] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:21:10.081479 #18988] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:21:10.191176 #18988] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:21:10.225429 #18988] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:21:10.284146 #18988] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:21:10.409275 #18988] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:21:10.441701 #18988] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:21:22.904012 #3816] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:21:23.143354 #3816] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:21:23.360816 #3816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:21:23.484957 #3816] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:21:23.516983 #3816] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:21:23.543567 #3816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:21:23.635372 #3816] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:21:23.662668 #3816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:21:23.708543 #3816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:21:23.795166 #3816] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:21:23.823263 #3816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:21:23.850314 #3816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:21:23.944181 #3816] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:21:23.963372 #3816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:21:24.028551 #3816] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:21:24.118781 #3816] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:21:24.146282 #3816] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:21:43.680708 #17220] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:21:43.934124 #17220] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:21:44.208965 #17220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:21:44.324003 #17220] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:21:44.358850 #17220] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:21:44.390104 #17220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:21:44.467723 #17220] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:21:44.498684 #17220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:21:44.525898 #17220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:21:44.618593 #17220] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:21:44.647877 #17220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:21:44.676218 #17220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:21:44.769337 #17220] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:21:44.811082 #17220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:21:44.875232 #17220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:21:44.953245 #17220] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:21:44.978920 #17220] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:22:08.832393 #16000] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:22:09.030797 #16000] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:22:09.186344 #16000] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:22:09.313272 #16000] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:22:09.408984 #16000] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:22:09.504031 #16000] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:22:09.527995 #16000] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:22:09.557162 #16000] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:22:09.650507 #16000] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:22:09.676648 #16000] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:22:09.696443 #16000] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:22:09.790413 #16000] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:22:09.809854 #16000] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:22:09.853853 #16000] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:22:09.935949 #16000] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:22:09.958103 #16000] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:22:10.012274 #16000] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:22:10.103701 #16000] DEBUG -- : REQUESTING PAGE: POST /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:22:10.127584 #16000] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:22:32.154844 #19160] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:22:32.347378 #19160] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:22:32.508474 #19160] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:22:32.633794 #19160] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:22:32.730631 #19160] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:22:32.826419 #19160] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:22:32.866617 #19160] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:22:32.909476 #19160] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:22:33.031803 #19160] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:22:33.094184 #19160] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:22:33.143411 #19160] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:22:33.352700 #19160] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:22:33.425780 #19160] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:22:33.486411 #19160] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:22:33.585879 #19160] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:22:33.613472 #19160] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:22:33.683911 #19160] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:22:33.771157 #19160] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:22:33.804973 #19160] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:28:44.195788 #18036] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:28:44.383287 #18036] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:28:44.551380 #18036] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:28:44.685245 #18036] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:28:44.760469 #18036] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:28:44.852409 #18036] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:28:44.883313 #18036] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:28:44.908778 #18036] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:28:45.009393 #18036] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:28:45.039992 #18036] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:28:45.078872 #18036] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:28:45.166974 #18036] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:28:45.196047 #18036] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:28:45.237893 #18036] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:28:45.310957 #18036] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:28:45.345146 #18036] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:28:45.411071 #18036] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:28:45.481068 #18036] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:28:45.517055 #18036] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:34:55.836937 #18600] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:34:56.012606 #18600] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:34:56.175814 #18600] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {}
+D, [2019-12-13T06:34:56.300323 #18600] DEBUG -- : REQUESTING PAGE: POST /simulacion with {"X"=>"1", "Y"=>"2", "orientacion"=>"N", "instrucciones"=>""} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:34:56.396051 #18600] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:34:56.488250 #18600] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:34:56.513666 #18600] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:34:56.536186 #18600] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:34:56.626047 #18600] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"-5", "tamY"=>"7", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:34:56.658058 #18600] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:34:56.677525 #18600] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:34:56.773551 #18600] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"0", "tamY"=>"3", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:34:56.801351 #18600] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:34:56.844996 #18600] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:34:56.916616 #18600] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"15", "tamY"=>"20", "numAutos"=>"2"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:34:56.947698 #18600] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
+D, [2019-12-13T06:34:57.016087 #18600] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-13T06:34:57.108313 #18600] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {"tamX"=>"5", "tamY"=>"5", "numAutos"=>"3"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-13T06:34:57.134104 #18600] DEBUG -- : REQUESTING PAGE: GET /setup_secuencia with {} and HTTP headers {"HTTP_REFERER"=>"/setup_secuencia"}
