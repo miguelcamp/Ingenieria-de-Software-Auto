@@ -76,6 +76,12 @@ class Auto
     def getEstado()
         return ("("+@x.to_s+","+@y.to_s+","+@Orientacion.to_s+")")
     end
+    def setEstado(_X, _Y,_ori)
+        @X=_X
+        @Y=_Y
+        @Orientacion=_ori
+    end
+
 
     def simular(inst)
         @Instruccion=inst
