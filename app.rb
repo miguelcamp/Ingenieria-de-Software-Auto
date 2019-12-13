@@ -4,7 +4,6 @@
 require 'sinatra'
 load  'lib\auto.rb'
 
-@auto = Auto.new
 
 get	'/'	do
     erb :mapa
@@ -33,6 +32,16 @@ end
 
 get '/setup_secuencia' do
     @numAutos = params[:numAutos].to_i
+    @aa=true;
+    @bb=true;
+    @cc=true;
+    if(@numAutos==1)
+        @bb=false;
+        @cc=false;
+    elsif(@numAutos==2)
+        @cc=false;
+    end
+   
     @tamX = params[:tamX].to_i
     @tamY = params[:tamY].to_i
         erb :setup_secuencia
@@ -47,8 +56,7 @@ post '/setup_secuencia' do
 end
 
 
-def simular()
-    autoo=Auto.new
+def simular(autoo)
     autoo.simular(@inst)
     
     @result=autoo.getEstado()

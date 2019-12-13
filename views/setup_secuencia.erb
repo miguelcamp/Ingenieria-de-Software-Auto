@@ -8,24 +8,50 @@
     <legend> <b> Ingresar datos para simular: </b> </legend>
 
     <fieldset>
-    <%iterator=0%>
-    <% while iterator < @numAutos %>
-        
-    
-        Posicion X  <%=iterator+1%><br>
-        <input type="text" name="X"><br>
+    <% if @aa %>
+       Posicion X  <br>
+        <input type="text" name="X1"><br>
 
-        Posicion Y <%=iterator+1%><br>
-        <input type="text" name="Y"><br>
+        Posicion Y <br>
+        <input type="text" name="Y1"><br>
 
-        Orientacion <%=iterator+1%><br>
-        <input type="text" name="orientacion"><br>
+        Orientacion <br>
+        <input type="text" name="orientacion1"><br>
 
         Instrucciones<br>
-        <input type="text" name="instrucciones"><br>
+        <input type="text" name="instrucciones1"><br>
         <br><br>
-        <%iterator+=1%>
+    
     <% end %>
-        <input type="submit" value="Simular">
+    <% if @bb %>
+       Posicion X  <br>
+        <input type="text" name="X2"><br>
+
+        Posicion Y <br>
+        <input type="text" name="Y2"><br>
+
+        Orientacion <br>
+        <input type="text" name="orientacion2"><br>
+
+        Instrucciones<br>
+        <input type="text" name="instrucciones2"><br>
+        <br><br>
+    
+    <% end %>
+    <% if @cc %>
+    Posicion X  <br>
+    <input type="text" name="X3"><br>
+
+    Posicion Y <br>
+    <input type="text" name="Y3"><br>
+
+    Orientacion <br>
+    <input type="text" name="orientacion3"><br>
+
+    Instrucciones<br>
+    <input type="text" name="instrucciones3"><br>
+    <br><br>
+
+    <% end %>
     </fieldset>
 </form>
