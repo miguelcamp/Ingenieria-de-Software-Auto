@@ -45,14 +45,14 @@ end
 
 get '/setup_secuencia' do
     @@numAutos = params[:numAutos].to_i
-    @aa=true;
-    @bb=true;
-    @cc=true;
-    if(@numAutos==1)
-        @bb=false;
-        @cc=false;
-    elsif(@numAutos==2)
-        @cc=false;
+    @@aa=true;
+    @@bb=true;
+    @@cc=true;
+    if(@@numAutos==1)
+        @@bb=false;
+        @@cc=false;
+    elsif(@@numAutos==2)
+        @@cc=false;
     end
    
     @tamX = params[:tamX].to_i
@@ -60,7 +60,7 @@ get '/setup_secuencia' do
         erb :setup_secuencia
 end
 post '/setup_secuencia' do
-    @numAutos = params[:numAutos].to_i
+    @@numAutos = params[:numAutos].to_i
 
     @tamX = params[:tamX].to_i
     @tamY = params[:tamY].to_i

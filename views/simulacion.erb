@@ -1,27 +1,40 @@
 <h2>Resultados de la simulacion</h2>
 
  <fieldset>
-        <legend><b>Datos</b></legend>
+        <legend><b>Valores Iniciales</b></legend>
 
-    <b>Posiciones Iniciales:</b>
+    <b>Posiciones de los Autos:</b>
     <br>
     
     Auto 1: X: <%=@posX%> , Y: <%=@posY%> Ori.: <%=@orientacion%>
     <br>
+   <% if @@bb %>
     Auto 2: X: <%=@posX2%> , Y: <%=@posY2%> Ori.: <%=@orientacion2%>
+   <%end%>
     <br>
+   <% if @@cc %>
     Auto 3: X: <%=@posX3%> , Y: <%=@posY3%> Ori.: <%=@orientacion3%>
+   <% end%>
     <br>
     <b>Instrucciones:</b>
+    <br>
     Auto 1:<%=@inst%>
     <br>
+    <% if @@bb %>
     Auto 2:<%=@inst2%>
+    <%end%>
     <br>
+    <% if @@cc %>
     Auto 3:<%=@inst3%>
+    <%end%>
     <%simular()%>
     <br>
  </fieldset>
 
-    <h3>Posicion Final: <%=@result%></h3>
-    <h3>Posicion Final: <%=@result2%></h3>
-    <h3>Posicion Final: <%=@result3%></h3>
+    <h3>Posicion Final Auto 1: <%=@result%></h3>
+    <% if @@bb %>
+    <h3>Posicion Final Auto 2: <%=@result2%></h3>
+    <%end%>
+    <% if @@cc %>
+    <h3>Posicion Final Auto 3: <%=@result3%></h3>
+    <%end%>

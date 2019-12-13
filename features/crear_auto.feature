@@ -20,6 +20,6 @@ Then deberia mostrar mensaje "X: 1 , Y: 2 Ori.: N"
 
 Scenario: Ingresar mas de un auto
 Given visito la pagina principal
-And ingreso 2 autos en el campo "num"
-When presiono el boton "Ingresar Dimensiones"
+And ingreso 2 autos en el campo "numAutos"
+When presiono el boton "Siguiente"
 Then deberia mostrar mensaje "Autos: 2"

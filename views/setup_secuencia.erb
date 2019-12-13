@@ -1,14 +1,15 @@
 
-<h1>Ingreso de Datos</h1>
-<h3>Dimensiones: <%=@tamX%> x <%=@tamY%></h3>
+<h1>Parametros de Autos</h1>
+<h3>Dimensiones del Mapa: <%=@tamX%> x <%=@tamY%></h3>
 
-<h3>Autos: <%=@numAutos%>
+<h3>Numero de Autos: <%=@@numAutos%>
 
 <form action="/simulacion" method="post">
-    <legend> <b> Ingresar datos para simular: </b> </legend>
+    <legend> <b> Ingresar Posiciones Iniciales e Instrucciones: </b> </legend>
 
     <fieldset>
-    <% if @aa %>
+    <% if @@aa %>
+    <h2>Auto 1 </h2>
        Posicion X  <br>
         <input type="text" name="X1"><br>
 
@@ -23,7 +24,9 @@
         <br><br>
     
     <% end %>
-    <% if @bb %>
+    <% if @@bb %>
+        <h2>Auto 2 </h2>
+
        Posicion X  <br>
         <input type="text" name="X2"><br>
 
@@ -38,7 +41,9 @@
         <br><br>
     
     <% end %>
-    <% if @cc %>
+    <% if @@cc %>
+        <h2>Auto 3 </h2>
+
     Posicion X  <br>
     <input type="text" name="X3"><br>
 
